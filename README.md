@@ -1,6 +1,8 @@
 # Thinking, Fast and Slow Flowchart
 
-This project visualizes the key concepts from Daniel Kahneman's book *Thinking, Fast and Slow* using a directed graph created with Python's `networkx` and `matplotlib` libraries. The flowchart provides a structured overview of the two systems of thinking, cognitive biases, decision-making principles, and strategies for improving decision-making.
+This project visualizes the key concepts from Daniel Kahneman's book *Thinking, Fast and Slow* using a directed graph created with Python's `networkx` and `matplotlib` libraries. 
+
+The flowchart provides a structured overview of the two systems of thinking, cognitive biases, decision-making principles, and strategies for improving decision-making.
 
 ## Features
 
